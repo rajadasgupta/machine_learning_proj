@@ -34,3 +34,6 @@ docker ps
 
 to stop any docker container
 docker stop <container_ID>
+
+python setup.py install
+

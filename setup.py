@@ -25,5 +25,4 @@ author=AUTHOR,
 description=DESCRIPTION,
 packages=find_packages(), #packages; find_packages automatically finds all packages
 install_requires=get_requirements_list()
-
 )
